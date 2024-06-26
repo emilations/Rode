@@ -1,12 +1,12 @@
 // src/App.js
 import React from 'react';
 import './App.css';
-import OllamaChat from './OllamaChat';
+import Chat from './Chat';
 
 function App() {
   return (
     <div className="App">
-      <OllamaChat />
+      <Chat />
     </div>
   );
 }
